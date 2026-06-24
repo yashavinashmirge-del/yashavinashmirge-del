@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate software developer with strong knowledge in programming fundamentals, system-level concepts, backend development, and full-stack application development.
+I am a passionate software developer  gaining strong knowledge in programming fundamentals, system-level concepts, backend development, and full-stack application development.
 
 I am learning
 - Computer Fundamentals  
