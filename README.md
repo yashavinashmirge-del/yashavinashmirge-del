@@ -61,26 +61,7 @@ I am learning
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
-# 📚 Learning Journey
-
-✔ Computer Architecture  
-✔ Computer Fundamentals  
-✔ Operating Systems  
-✔ C Programming  
-✔ Advanced C  
-✔ C++ Programming  
-✔ Advanced C++  
-✔ Core Java  
-✔ Advanced Java  
-✔ Networking  
-✔ SQL  
-✔ MongoDB  
-✔ Spring Boot  
-✔ Full Stack Development  
-
----
 
 # 🎯 Current Focus
 - Data Structures & Algorithms  
