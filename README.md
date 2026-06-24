@@ -13,7 +13,7 @@
 
 I am a passionate software developer with strong knowledge in programming fundamentals, system-level concepts, backend development, and full-stack application development.
 
-I have completed training in:
+I am learning
 - Computer Fundamentals  
 - Operating Systems  
 - System Programming  
