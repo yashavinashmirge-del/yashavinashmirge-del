@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <div align="center">
 
 # Hi 👋, I'm Yash Avinash Mirge
