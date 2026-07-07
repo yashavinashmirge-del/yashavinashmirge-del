@@ -37,7 +37,7 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 
 ---
 
-### 🚀 LAN
+### 🚀 LANGUAGE
 
 | Language/stack |
 |----------------|
