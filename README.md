@@ -1,88 +1,81 @@
-
 <div align="center">
 
-# Hi 👋, I'm Yash Avinash Mirge
+# Hi, I'm Yash Avinash Mirge 👋
 
-### 🚀 Aspiring Software Developer | Java Full Stack Developer
+### Aspiring Software Developer · Java Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Learning+Java+%26+Spring+Boot;Building+Backend-Focused+Projects;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashavinashmirge-del)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashavinashmirge)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashavinashmirge@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=yashavinashmirge-del&color=8b5cf6&style=flat-square&label=Profile+Views)](https://github.com/yashavinashmirge-del)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I am a passionate software developer  gaining strong knowledge in programming fundamentals, system-level concepts, backend development, and full-stack application development.
+I'm an aspiring software developer focused on building a strong foundation in programming fundamentals, backend engineering, and full-stack development. My work centers on writing clean, well-structured Java code and understanding how backend systems are designed, while steadily developing full-stack capability along the way.
 
-I am learning
-- Computer Fundamentals  
-- Operating Systems  
-- System Programming  
-- C / C++  
-- Core Java / Advanced Java  
-- SQL / MongoDB  
-- Spring Boot  
-- Full Stack Development  
+| | |
+|---|---|
+| 🔭 **Learning** | Core & Advanced Java, Spring Boot, SQL, MongoDB, Data Structures & Algorithms |
+| 🌱 **Building** | Java-based backend projects and full-stack applications |
+| 🎯 **Open to** | Internships and entry-level Software Engineer / Java Developer roles |
 
 ---
 
-# 💡 Philosophy
+### 🛠️ Tech Stack
 
-> **"Satisfaction is the biggest hurdle for growth."**  
-> Keep learning. Keep improving. Never settle.
-
----
-
-# 💻 Tech Stack
-
-## Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,spring,mysql,mongodb,git,github,vscode,idea,postman" />
+</p>
 
 ---
 
-## Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+### 🚀 LAN
+
+| Language/stack |
+|----------------|
+| [Java Programming ](https://github.com/yashavinashmirge-del/JAVA_PROGRAMMMING) |
+| [C++ Programming ](https://github.com/yashavinashmirge-del/CPP_PROGRAMMING) |
+| [C Programming ](https://github.com/yashavinashmirge-del/C_PROGRAMMING) |
+| [Web Development ](https://github.com/yashavinashmirge-del/WEB_DEV) |
+| [Python](https://github.com/yashavinashmirge-del/Python_Udemy) |
+_ _ _
+
+### 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Chat Messenger with Logging](https://github.com/yashavinashmirge-del/Chat-Messenger-with-Logging-JAVA_PROJECT-) | Java chat messenger with integrated logging | Java |
+
+
+
+### 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashavinashmirge-del&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9A9FF&hide_border=true" width="100%"/>
+</div>
 
 ---
 
-## Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 📫 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashavinashmirge@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashavinashmirge)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashavinashmirge-del)
+
+</div>
 
 ---
 
-## Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-
-# 🎯 Current Focus
-- Data Structures & Algorithms  
-- Problem Solving  
-- Backend Development  
-- Real World Projects  
-
----
-
-### ⭐ Learning, Building, and Growing Every Day.
-<!--
-**yashavinashmirge-del/yashavinashmirge-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<sub><i>"Satisfaction is the biggest hurdle for growth — keep learning, keep improving."</i></sub>
+</div>
