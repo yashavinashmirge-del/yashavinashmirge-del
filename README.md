@@ -75,7 +75,5 @@ _ _ _
 </div>
 
 ---
-
-<div align="center">
-<sub><i>"Satisfaction is the biggest hurdle for growth — keep learning, keep improving."</i></sub>
-</div>
+## Philosophy.....
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&width=750&height=50&lines=%22Satisfaction+is+the+biggest+hurdle+for+growth+....%22)
