@@ -54,25 +54,59 @@ _ _ _
 |---|---|---|
 | [Chat Messenger with Logging](https://github.com/yashavinashmirge-del/Chat-Messenger-with-Logging-JAVA_PROJECT-) | Java chat messenger with integrated logging | Java |
 
-
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashavinashmirge-del&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9A9FF&hide_border=true" width="100%"/>
-</div>
-
 ---
 
-### 📫 Connect With Me
+## 📬 Connect With Me
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="60">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashavinashmirge@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashavinashmirge)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashavinashmirge-del)
+<a href="mailto:yashavinashmirge@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+</a>
 
-</div>
+</td>
+<td>
+
+**Email**  
+yashavinashmirge@gmail.com
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://www.linkedin.com/in/yashavinashmirge">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+</td>
+<td>
+
+**LinkedIn**  
+https://www.linkedin.com/in/yashavinashmirge
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/yashavinashmirge-del">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+
+</td>
+<td>
+
+**GitHub**  
+https://github.com/yashavinashmirge-del
+
+</td>
+</tr>
+</table>
 
 ---
 ## Philosophy.....
