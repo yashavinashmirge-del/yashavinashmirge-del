@@ -52,7 +52,7 @@ _ _ _
 
 | Project | Description | Stack |
 |---|---|---|
-| [Chat Messenger with Logging](https://github.com/yashavinashmirge-del/Chat-Messenger-with-Logging-JAVA_PROJECT-) | Java chat messenger with integrated logging | Java |
+| [Chat Messenger with Logging](https://github.com/yashavinashmirge-del/PRO_CHAT) | Java chat messenger with integrated logging | Java |
 
 ---
 
