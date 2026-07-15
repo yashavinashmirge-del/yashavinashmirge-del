@@ -50,9 +50,11 @@ _ _ _
 
 ### 🚀 Projects(COMING SOON.......)
 
-| Project | Description | Stack |
+| Project | Description | Technology |
 |---|---|---|
-| [Chat Messenger with Logging](https://github.com/yashavinashmirge-del/PRO_CHAT) | Java chat messenger with integrated logging | Java |
+| [Chat Messenger with Logging](https://github.com/yashavinashmirge-del/PRO_CHAT) | • Implemented real-time messaging system using TCP sockets. 
+• Maintained timestamp-based chat logging mechanism. 
+ |  Java, Socket Programming  |
 
 ---
 
