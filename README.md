@@ -48,7 +48,7 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 | [Python](https://github.com/yashavinashmirge-del/Python_Udemy) |
 _ _ _
 
-### 🚀 Projects(COMING SOON.......)
+### 🚀 Projects
 
 | Project | Description | Technology |
 |---|---|---|
