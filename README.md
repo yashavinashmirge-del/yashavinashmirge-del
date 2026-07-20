@@ -32,7 +32,9 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 ### 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,spring,mysql,mongodb,git,github,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,react,nextjs,spring,mysql,mongodb,docker,git,github,vscode,idea,androidstudio,postman,bun,ios" />
+
+
 </p>
 
 ---
@@ -48,8 +50,8 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 | [Python](https://github.com/yashavinashmirge-del/Python_Udemy) |
 _ _ _
 
-### 🚀 Projects
-
+### 🚀 Projects HIGHLIGHTS...
+## JAVA
 | Project | Description | Technology |
 |---|---|---|
 | [Chat Messenger with Logging](https://github.com/yashavinashmirge-del/PRO_CHAT) | • Implemented real-time messaging system using TCP sockets                        <br>                    • Maintained timestamp-based chat logging mechanism|  Java, Socket Programming  |
