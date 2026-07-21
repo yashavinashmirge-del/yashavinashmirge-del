@@ -24,8 +24,8 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 | | |
 |---|---|
 | 🔭 **Learning** | Core & Advanced Java, Spring Boot, SQL, MongoDB, Data Structures & Algorithms |
-| 🌱 **Building** | Java&Node.js-based backend projects and full-stack applications |
-| 🎯 **Open to** | Internships and entry-level Software Engineer / Java Developer roles/App and Web Developer roles|
+| 🌱 **Building** | Java & Node.js-based backend projects and full-stack applications |
+| 🎯 **Open to** | Internships and entry-level Software Engineer / Java Developer / App & Web Developer roles |
 
 ---
 
@@ -33,8 +33,6 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,react,nextjs,spring,mysql,mongodb,docker,git,github,vscode,idea,androidstudio,postman,bun,ios" />
-
-
 </p>
 
 ---
@@ -50,13 +48,15 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 | 📱 App Dev (Expo) | [APP_DEV_expo](https://github.com/yashavinashmirge-del/APP_DEV_expo) | Mobile app development practice using Expo (React Native) |
 | 🐍 Python | [Python_Udemy](https://github.com/yashavinashmirge-del/Python_Udemy) | Python practice programs from a Udemy course |
 
-_ _ _
+---
 
-### 🚀 Projects HIGHLIGHTS...
-## JAVA
+### 🚀 Project Highlights
+
+**Java**
+
 | Project | Description | Technology |
 |---|---|---|
-| [Chat Messenger with Logging](https://github.com/yashavinashmirge-del/PRO_CHAT) | • Implemented real-time messaging system using TCP sockets                        <br>                    • Maintained timestamp-based chat logging mechanism|  Java, Socket Programming  |
+| [Chat Messenger with Logging](https://github.com/yashavinashmirge-del/PRO_CHAT) | • Implemented real-time messaging system using TCP sockets<br>• Maintained timestamp-based chat logging mechanism | Java, Socket Programming |
 
 ---
 
@@ -113,5 +113,7 @@ https://github.com/yashavinashmirge-del
 </table>
 
 ---
-## Philosophy.....
+
+## Philosophy
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&width=750&height=50&lines=%22Satisfaction+is+the+biggest+hurdle+for+growth+....%22)
