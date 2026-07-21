@@ -4,7 +4,7 @@
 
 ### Aspiring Software Developer · Java Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Learning+Java+%26+Spring+Boot;Building+Backend-Focused+Projects;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Learning+Java+%26+Spring+Boota+%26+App+Development;Building+Backend-Focused+Projects;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 
 <br/>
 
@@ -47,6 +47,7 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 | [C++ Programming ](https://github.com/yashavinashmirge-del/CPP_PROGRAMMING) |
 | [C Programming ](https://github.com/yashavinashmirge-del/C_PROGRAMMING) |
 | [Web Development ](https://github.com/yashavinashmirge-del/WEB_DEV) |
+| [APP_DEV_WITH_EXPO ](https://github.com/yashavinashmirge-del/APP_DEV_expo) |
 | [Python](https://github.com/yashavinashmirge-del/Python_Udemy) |
 _ _ _
 
