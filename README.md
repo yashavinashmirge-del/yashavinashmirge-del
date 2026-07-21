@@ -4,7 +4,7 @@
 
 ### Aspiring Software Developer · Java Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Learning+Java+%26+Spring+Boota+%26+App+Development;Building+Backend-Focused+Projects;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Learning+Java+%26+Spring+Boot+;App+%26+Web+Development+;Building+Backend-Focused+Projects;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 
 <br/>
 
@@ -24,8 +24,8 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 | | |
 |---|---|
 | 🔭 **Learning** | Core & Advanced Java, Spring Boot, SQL, MongoDB, Data Structures & Algorithms |
-| 🌱 **Building** | Java-based backend projects and full-stack applications |
-| 🎯 **Open to** | Internships and entry-level Software Engineer / Java Developer roles |
+| 🌱 **Building** | Java&Node.js-based backend projects and full-stack applications |
+| 🎯 **Open to** | Internships and entry-level Software Engineer / Java Developer roles/App and Web Developer roles|
 
 ---
 
@@ -39,16 +39,17 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 
 ---
 
-### 🚀 LANGUAGE
+## 🚀 Languages & Stacks
 
-| Language/stack |
-|----------------|
-| [Java Programming ](https://github.com/yashavinashmirge-del/JAVA_PROGRAMMMING) |
-| [C++ Programming ](https://github.com/yashavinashmirge-del/CPP_PROGRAMMING) |
-| [C Programming ](https://github.com/yashavinashmirge-del/C_PROGRAMMING) |
-| [Web Development ](https://github.com/yashavinashmirge-del/WEB_DEV) |
-| [APP_DEV_WITH_EXPO ](https://github.com/yashavinashmirge-del/APP_DEV_expo) |
-| [Python](https://github.com/yashavinashmirge-del/Python_Udemy) |
+| Stack | Repository | Description |
+|-------|------------|--------------|
+| ☕ Java | [JAVA_PROGRAMMMING](https://github.com/yashavinashmirge-del/JAVA_PROGRAMMMING) | Java programs covering concepts, practice problems & coding exercises |
+| ➕ C++ | [CPP_PROGRAMMING](https://github.com/yashavinashmirge-del/CPP_PROGRAMMING) | C++ programs covering OOP concepts, practice problems & coding exercises |
+| 🔧 C | [C_PROGRAMMING](https://github.com/yashavinashmirge-del/C_PROGRAMMING) | C programs covering concepts, practice problems & coding exercises |
+| 🌐 Web Dev | [WEB_DEV](https://github.com/yashavinashmirge-del/WEB_DEV) | HTML-based web development practice |
+| 📱 App Dev (Expo) | [APP_DEV_expo](https://github.com/yashavinashmirge-del/APP_DEV_expo) | Mobile app development practice using Expo (React Native) |
+| 🐍 Python | [Python_Udemy](https://github.com/yashavinashmirge-del/Python_Udemy) | Python practice programs from a Udemy course |
+
 _ _ _
 
 ### 🚀 Projects HIGHLIGHTS...
