@@ -45,7 +45,7 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 | ➕ C++ | [CPP_PROGRAMMING](https://github.com/yashavinashmirge-del/CPP_PROGRAMMING) | C++ programs covering OOP concepts, practice problems & coding exercises |
 | 🔧 C | [C_PROGRAMMING](https://github.com/yashavinashmirge-del/C_PROGRAMMING) | C programs covering concepts, practice problems & coding exercises |
 | 🐍 Python | [Python_Udemy](https://github.com/yashavinashmirge-del/Python_Udemy) | Python practice programs from a Udemy course |
-| DSA | [LEETCODE_PRACTICE_CODES](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE_CODES) | A collection of LeetCode practice solutions, organized by problem number and topic (auto-generated structure). |
+| DSA | [LEETCODE_PRACTICE_CODES](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE_CODES) | A collection of LeetCode practice solutions, organized by problem number and topic . |
 | 🌐 Web Dev | [WEB_DEV](https://github.com/yashavinashmirge-del/WEB_DEV) | HTML-based web development practice |
 | 📱 App Dev (Expo) | [APP_DEV_expo](https://github.com/yashavinashmirge-del/APP_DEV_expo) | Mobile app development practice using Expo (React Native) |
 
