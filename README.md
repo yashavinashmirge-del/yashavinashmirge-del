@@ -54,7 +54,7 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 
 ### 🚀 Project Highlights
 
-**Java**
+
 
 | Project | Description | Technology |
 |---|---|---|
