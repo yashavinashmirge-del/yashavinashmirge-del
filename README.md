@@ -58,7 +58,10 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 
 | Project | Description | Technology |
 |---|---|---|
-| [Chat Messenger with Logging](https://github.com/yashavinashmirge-del/PRO_CHAT) | • Implemented real-time messaging system using TCP sockets<br>• Maintained timestamp-based chat logging mechanism | Java, Socket Programming |
+| [Chat Messenger with Logging](https://github.com/yashavinashmirge-del/PRO_CHAT) | • Implemented real-time messaging system using TCP sockets <br> • Maintained timestamp-based chat logging mechanism | Java, Socket Programming |
+| [MarvellousFullStack](https://github.com/yashavinashmirge-del/MarvellousFullStack) |  • A RESTful backend for managing batch/course enrollment records (id, name, fees), built with a layered Controller–Service–Repository architecture and tested via Postman, with MongoDB as the persistence layer. | Java 17,<br> Spring Boot,<br> MongoDB,<br> postman <br>|
+ 
+
 
 ---
 
