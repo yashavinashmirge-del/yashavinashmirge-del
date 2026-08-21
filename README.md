@@ -60,7 +60,7 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 |---|---|---|
 | [Chat Messenger with Logging](https://github.com/yashavinashmirge-del/PRO_CHAT) | • Implemented real-time messaging system using TCP sockets <br> • Maintained timestamp-based chat logging mechanism | Java, Socket Programming |
 | [MarvellousFullStack](https://github.com/yashavinashmirge-del/MarvellousFullStack) |  • A RESTful backend for managing batch/course enrollment records (id, name, fees), built with a layered Controller–Service–Repository architecture and tested via Postman, with MongoDB as the persistence layer. | Java 17,<br> Spring Boot,<br> MongoDB,<br> postman <br>|
-
+| [Custom Virtual File System (CVFS)](https://github.com/yashavinashmirge-del/CVFS_PROJECT) | • Built a from-scratch, in-memory simulation of core Linux file system internals with a custom interactive shell (`Marvellous CVFS :>`) <br> • Implemented self-written versions of system calls (`creat`, `read`, `write`, `stat`, `unlink`, `ls`) along with core OS data structures — Boot Block, Super Block, Inode List (DILB), UAREA, and File Table with UFDT | C, System Programming |
  _ _ _ _ _
 
  ## CODING PLATFORM ACTIVE
