@@ -41,9 +41,9 @@ I'm an aspiring software developer focused on building a strong foundation in pr
 
 | Stack | Repository | Description |
 |-------|------------|--------------|
-| ☕ Java | [JAVA_PROGRAMMMING](https://github.com/yashavinashmirge-del/JAVA_PROGRAMMMING) | Java programs covering concepts, practice problems & coding exercises |
-| ➕ C++ | [CPP_PROGRAMMING](https://github.com/yashavinashmirge-del/CPP_PROGRAMMING) | C++ programs covering OOP concepts, practice problems & coding exercises |
-| 🔧 C | [C_PROGRAMMING](https://github.com/yashavinashmirge-del/C_PROGRAMMING) | C programs covering concepts, practice problems & coding exercises |
+| ☕ Java | [JAVA_PROGRAMMMING](https://github.com/yashavinashmirge-del/JAVA_PROGRAMS) | Java programs covering concepts, practice problems & coding exercises |
+| ➕ C++ | [CPP_PROGRAMMING](https://github.com/yashavinashmirge-del/CPP_PROGRAMS) | C++ programs covering OOP concepts, practice problems & coding exercises |
+| 🔧 C | [C_PROGRAMMING](https://github.com/yashavinashmirge-del/C_PROGRAMS) | C programs covering concepts, practice problems & coding exercises |
 | 🐍 Python | [Python_Udemy](https://github.com/yashavinashmirge-del/Python_Udemy) | Python practice programs from a Udemy course |
 | DSA | [LEETCODE_PRACTICE_CODES](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE_CODES) | A collection of LeetCode practice solutions, organized by problem number and topic . |
 | 🌐 Web Dev | [WEB_DEV](https://github.com/yashavinashmirge-del/WEB_DEV) | HTML-based web development practice |
